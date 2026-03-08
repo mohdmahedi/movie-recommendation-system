@@ -144,8 +144,8 @@ svd_recs = svd_recommend(user_id=1, n=10)
 
 ## 👤 Author
 
-**AI & Data Science Intern**  
-Internship at **Codec Technologies**
+**Mohd Mahedi Bakali**  
+Intern at **Codec Technologies**
 
 ---
 
