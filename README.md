@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.3.0-orange)
 ![Pandas](https://img.shields.io/badge/pandas-2.0.3-green)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 > **AI & Data Science Internship Project** | Built using MovieLens 100K Dataset
